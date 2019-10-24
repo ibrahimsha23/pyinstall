@@ -10,7 +10,7 @@ Build a utility library to solve the  purpose of installing python packages
   
 ## Proposal
   1. Hold the requirements in json file as npm install holds
-  2. by entering pyinstall flask==1.0.0 --save-dev
+  2. by entering `pyinstall flask==1.0.0 --save-dev`.
       ```
           {
             "name": "core",
